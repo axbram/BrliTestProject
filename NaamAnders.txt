@@ -1,5 +1,5 @@
 MAAR HIJ OPENT HEM IN SOURCETREE WEL MET NOTEPAD
-PROBEER DAT TE VERANDEREA HOE?N
+PROBEER DAT TE VERANDEREN HOE?
 invoegen met vi(m)
 invoegen met vi(m)
 invoegen met vi(m)
