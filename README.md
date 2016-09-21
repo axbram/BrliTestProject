@@ -1,2 +1,2 @@
 # BrliTestProject
-om git en sourcetree te testen
+om git/GitHub en SourceTree te testen/oefenen/basis_git_stuff
